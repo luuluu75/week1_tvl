@@ -120,7 +120,7 @@ Your resume should include:
 
 ### 4. Updated LinkedIn Profile
 
-💁 Need help updating your LinkedIn? Check out the [Career Services milestone resources for online presence](hhttps://sites.google.com/2u.com/careerservices-webdev/coding-milestones/milestone-polish-online-presence).
+💁 Need help updating your LinkedIn? Check out the [Career Services milestone resources for online presence](https://sites.google.com/2u.com/careerservices-webdev/coding-milestones/milestone-polish-your-online-presence/step-by-step-guide-to-building-a-linkedin-profile).
 
 Update your LinkedIn Profile with a strong bio statement, a professional photo, and links to your Github and portfolio.
 
